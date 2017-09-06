@@ -1,4 +1,10 @@
+# ! WATCH THIS SPACE !
+
+Calibration code and associated libraries, as well as instructions for use will be uploaded ASAP. 
+
 # RGBDCalibration
+
+This code provides a method of depth sensor calibration that is highly compact, and easily computable in real-time. 
 
 ### CITATION INSTRUCTIONS
 
